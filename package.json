@@ -1,0 +1,26 @@
+{
+  "name": "students-affairs-system",
+  "version": "1.0.0",
+  "description": "A modern web application for managing student affairs data",
+  "main": "index.html",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000",
+    "dev": "concurrently \"json-server --watch db.json --port 3000\" \"npx http-server -p 8000\"",
+    "server": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [
+    "students",
+    "affairs",
+    "education",
+    "management",
+    "crud",
+    "javascript",
+    "es6",
+    "oop"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}

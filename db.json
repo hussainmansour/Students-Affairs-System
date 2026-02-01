@@ -1,0 +1,191 @@
+{
+  "students": [
+    {
+      "firstName": "Michael",
+      "lastName": "Chen",
+      "email": "michael.chen@university.edu",
+      "enrollmentDate": "2023-09-01",
+      "major": "Business Administration",
+      "gpa": "3.62",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "firstName": "Emily",
+      "lastName": "Rodriguez",
+      "email": "emily.rodriguez@university.edu",
+      "enrollmentDate": "2024-01-15",
+      "major": "Biology",
+      "gpa": 3.91
+    },
+    {
+      "id": 4,
+      "firstName": "James",
+      "lastName": "Williams",
+      "email": "james.williams@university.edu",
+      "enrollmentDate": "2022-09-01",
+      "major": "Engineering",
+      "gpa": 3.45
+    },
+    {
+      "id": 5,
+      "firstName": "Olivia",
+      "lastName": "Brown",
+      "email": "olivia.brown@university.edu",
+      "enrollmentDate": "2023-01-10",
+      "major": "Psychology",
+      "gpa": 3.78
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "courseCode": "CS101",
+      "courseName": "Introduction to Programming",
+      "credits": 3,
+      "department": "Computer Science",
+      "semester": "Fall",
+      "description": "Fundamental concepts of programming using modern programming languages"
+    },
+    {
+      "id": 2,
+      "courseCode": "MATH201",
+      "courseName": "Calculus I",
+      "credits": 4,
+      "department": "Mathematics",
+      "semester": "Fall",
+      "description": "Limits, derivatives, and integrals of functions of one variable"
+    },
+    {
+      "id": 3,
+      "courseCode": "ENG102",
+      "courseName": "English Composition",
+      "credits": 3,
+      "department": "English",
+      "semester": "Spring",
+      "description": "Academic writing, research methods, and critical thinking"
+    },
+    {
+      "id": 4,
+      "courseCode": "BIO150",
+      "courseName": "General Biology",
+      "credits": 4,
+      "department": "Biology",
+      "semester": "Spring",
+      "description": "Introduction to biological principles including cell structure, genetics, and evolution"
+    },
+    {
+      "id": 5,
+      "courseCode": "CHEM101",
+      "courseName": "General Chemistry",
+      "credits": 4,
+      "department": "Chemistry",
+      "semester": "Fall",
+      "description": "Fundamental principles of chemistry including atomic structure and chemical bonding"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "firstName": "Dr. Robert",
+      "lastName": "Smith",
+      "email": "r.smith@university.edu",
+      "department": "Computer Science",
+      "title": "Professor",
+      "officeNumber": "CS-301",
+      "phone": "+1-555-0101"
+    },
+    {
+      "id": 2,
+      "firstName": "Dr. Maria",
+      "lastName": "Garcia",
+      "email": "m.garcia@university.edu",
+      "department": "Mathematics",
+      "title": "Associate Professor",
+      "officeNumber": "MATH-205",
+      "phone": "+1-555-0102"
+    },
+    {
+      "id": 3,
+      "firstName": "Dr. David",
+      "lastName": "Lee",
+      "email": "d.lee@university.edu",
+      "department": "Biology",
+      "title": "Assistant Professor",
+      "officeNumber": "BIO-112",
+      "phone": "+1-555-0103"
+    },
+    {
+      "id": 4,
+      "firstName": "Dr. Jennifer",
+      "lastName": "Taylor",
+      "email": "j.taylor@university.edu",
+      "department": "English",
+      "title": "Lecturer",
+      "officeNumber": "ENG-401",
+      "phone": "+1-555-0104"
+    },
+    {
+      "id": 5,
+      "firstName": "Dr. Ahmed",
+      "lastName": "Hassan",
+      "email": "a.hassan@university.edu",
+      "department": "Chemistry",
+      "title": "Professor",
+      "officeNumber": "CHEM-220",
+      "phone": "+1-555-0105"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Lisa",
+      "lastName": "Anderson",
+      "email": "l.anderson@university.edu",
+      "position": "Student Affairs Coordinator",
+      "department": "Student Affairs",
+      "hireDate": "2020-03-15",
+      "phone": "+1-555-0201"
+    },
+    {
+      "id": 2,
+      "firstName": "Mark",
+      "lastName": "Thompson",
+      "email": "m.thompson@university.edu",
+      "position": "Academic Advisor",
+      "department": "Academic Services",
+      "hireDate": "2019-08-01",
+      "phone": "+1-555-0202"
+    },
+    {
+      "id": 3,
+      "firstName": "Rachel",
+      "lastName": "Martinez",
+      "email": "r.martinez@university.edu",
+      "position": "Registrar",
+      "department": "Registration Office",
+      "hireDate": "2018-06-10",
+      "phone": "+1-555-0203"
+    },
+    {
+      "id": 4,
+      "firstName": "Kevin",
+      "lastName": "White",
+      "email": "k.white@university.edu",
+      "position": "IT Support Specialist",
+      "department": "Information Technology",
+      "hireDate": "2021-01-20",
+      "phone": "+1-555-0204"
+    },
+    {
+      "id": 5,
+      "firstName": "Amanda",
+      "lastName": "Davis",
+      "email": "a.davis@university.edu",
+      "position": "Financial Aid Officer",
+      "department": "Financial Aid",
+      "hireDate": "2019-11-05",
+      "phone": "+1-555-0205"
+    }
+  ]
+}
